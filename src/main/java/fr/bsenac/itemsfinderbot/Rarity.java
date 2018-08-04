@@ -22,7 +22,7 @@ public enum Rarity {
     /**
      * The maximum of the interval [0, max], define the rarity
      */
-    private static final int max = 2500;
+    private static final int max = 2000;
     /**
      * The rarity of the objects
      */
